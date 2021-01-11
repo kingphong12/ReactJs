@@ -11,7 +11,6 @@ class App extends Component {
 		this.state = {
 			count: 0,
 		}
-
 		// this.increment = this.increment.bind(this) // thực hiện gán biến this của App và this của increment thành 1 biến this chung
 	}
 
